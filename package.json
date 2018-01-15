@@ -1,6 +1,6 @@
 {
-  "name": "rest-fs",
-  "version": "0.1.11",
+  "name": "csak-rest-fs",
+  "version": "0.1.12",
   "description": "restful fileserver",
   "main": "fileserver.js",
   "directories": {
@@ -12,18 +12,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/anandkumarpatel/rest-fs.git"
+    "url": "https://github.com/csakaszamok/rest-fs.git"
   },
   "keywords": [
     "rest-fs",
     "fileserver"
   ],
-  "author": "Anandkumar Patel",
+  "author": "csakaszamok",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anandkumarpatel/rest-fs/issues"
+    "url": "https://github.com/csakaszamok/rest-fs/issues"
   },
-  "homepage": "https://github.com/anandkumarpatel/rest-fs",
+  "homepage": "https://github.com/csakaszamok/rest-fs",
   "dependencies": {
     "body-parser": "1.5.2",
     "dat-middleware": "^1.8.1",
